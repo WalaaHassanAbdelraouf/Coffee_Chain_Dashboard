@@ -82,12 +82,8 @@ The data used for this dashboard includes:
 
 To use this dashboard:
 1. Clone the repository to your local machine.
-2. Open the dashboard file (e.g., a .pbix file if using Power BI, or a .xlsx file if using Excel).
+2. Open the dashboard file with a compatible data visualization tool.
 3. Navigate through the different sections to analyze the data.
 
-## Installation
 
-1. Ensure you have the necessary software installed (Power BI Desktop, Excel, or any other tool used for creating the dashboard).
-2. Clone the repository:
-   `sh
-   git clone https://github.com/yourusername/coffee-chain-dashboard.git
+  
