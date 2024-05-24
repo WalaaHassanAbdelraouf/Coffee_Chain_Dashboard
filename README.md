@@ -14,9 +14,7 @@ This project is a comprehensive dashboard for analyzing the performance of a cof
    - [Total Sales and Profits Per State](#total-sales-and-profits-per-state)
 3. [Data Source](#data-source)
 4. [Usage](#usage)
-5. [Installation](#installation)
-6. [Contributing](#contributing)
-7. [License](#license)
+
 
 ## Project Overview
 
