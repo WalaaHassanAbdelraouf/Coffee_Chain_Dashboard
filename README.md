@@ -71,7 +71,7 @@ A bar chart showing the total sales and profits for each state. This visualizati
 
 ## Data Source
 
-The data used for this dashboard is sourced from [data.world](https://data.world) and contains: 
+The data used for this project is sourced from [data.world](https://data.world) and contains: 
 - Sales data of different coffee products.
 - Profit and expense records.
 - Market segmentation information.
